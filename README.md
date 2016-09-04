@@ -1,8 +1,10 @@
 # telemp3
 # TeleMp3 has been writed in python and open source
 
+# Writer : @PokerN
+
 ;-)
-[support](https://telegram.me/nfrat_1)
+[Creator](https://telegram.me/PokerN)
 
 # install :
 
@@ -10,7 +12,7 @@
 
 ● nano config.py
 
-● -- edit config.py
+● edit config.py
 
 ● ^x
 
@@ -24,4 +26,4 @@
 
 ● hash : # enter token
 
-[support channel](https://telegram.me/lmAnonymous)
+[support channel](https://telegram.me/DarkSideTM)
